@@ -55,11 +55,9 @@ The dashboard contains the following visualizations:
 - The overall profit margin was 16.42%.
 
   ## Project Files
-
 - `Retail_Sales_Dashboard.xlsx` – Complete Excel dashboard, PivotTables, analysis, and visualizations.
 
   ## Skills Demonstrated
-
 - Data Analysis using Excel
 - Data Cleaning and Preparation
 - Excel Formulas
@@ -68,3 +66,7 @@ The dashboard contains the following visualizations:
 - Data Visualization
 - Dashboard Development
 - Business Insight Generation
+
+  ## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
