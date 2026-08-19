@@ -16,7 +16,7 @@ The dashboard was created to answer key business questions such as:
 - Which products generate the highest sales?
 - How do sales vary by salesperson?
 
-  ##  Tools & Techniques
+## Tools & Techniques
 - Microsoft Excel
 - Data Cleaning
 - Excel Formulas
@@ -54,10 +54,10 @@ The dashboard contains the following visualizations:
 - The dashboard provides a comparison of sales performance across categories, regions, products, and salespeople.
 - The overall profit margin was 16.42%.
 
-  ## Project Files
+## Project Files
 - `Retail_Sales_Dashboard.xlsx` – Complete Excel dashboard, PivotTables, analysis, and visualizations.
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 - Data Analysis using Excel
 - Data Cleaning and Preparation
 - Excel Formulas
@@ -67,6 +67,6 @@ The dashboard contains the following visualizations:
 - Dashboard Development
 - Business Insight Generation
 
-  ## Dashboard Preview
+## Dashboard Preview
 
 ![Retail Sales Dashboard](dashboard.png)
